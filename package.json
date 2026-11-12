@@ -2,7 +2,7 @@
   "name": "neobrutalism-native",
   "version": "1.0.0",
   "author": "Paulo Victor Viana",
-  "repository": { "type": "git", "url": "https://github.com/primed3v/neobrutalism-native.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/primed3v/neobrutalism-native.git" },
   "homepage": "https://github.com/primed3v/neobrutalism-native#readme",
   "bugs": "https://github.com/primed3v/neobrutalism-native/issues",
   "description": "Neobrutalism components for React Native (iOS, Android & Web). A port of neobrutalism.dev.",
