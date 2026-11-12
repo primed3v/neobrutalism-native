@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/neobrutalism-native)](https://www.npmjs.com/package/neobrutalism-native)
+
 # neobrutalism-native
 
 The [neobrutalism.dev](https://www.neobrutalism.dev/) component library
